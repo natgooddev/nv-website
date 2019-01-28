@@ -1,0 +1,19 @@
+{
+  "name": "nv-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natgooddev/nv-website.git"
+  },
+  "author": "nat gooddev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natgooddev/nv-website/issues"
+  },
+  "homepage": "https://github.com/natgooddev/nv-website#readme"
+}
