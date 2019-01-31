@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/natgooddev/nv-website/issues"
   },
-  "homepage": "https://github.com/natgooddev/nv-website#readme"
+  "homepage": "https://github.com/natgooddev/nv-website#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
 }
